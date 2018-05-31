@@ -27,6 +27,11 @@ squirrels = [
   "https://1.bp.blogspot.com/_v0neUj-VDa4/TFBEbqFQcII/AAAAAAAAFBU/E8kPNmF1h1E/s640/squirrelbacca-thumb.jpg",
   "https://dl.dropboxusercontent.com/u/602885/github/soldier-squirrel.jpg",
   "https://dl.dropboxusercontent.com/u/602885/github/squirrelmobster.jpeg",
+  "https://upload.wikimedia.org/wikipedia/commons/c/cb/The_Squirrel_from_the_Jungle_of_Alwar%2C_Rajasthan.jpg",
+  "https://upload.wikimedia.org/wikipedia/commons/d/da/Indian_Palm_Squirrel_%28Funambulus_palmarum%29.jpg",
+  "https://upload.wikimedia.org/wikipedia/commons/9/95/Sciurus-vulgaris_hernandeangelis_stockholm_2008-06-04.jpg",
+  "https://upload.wikimedia.org/wikipedia/commons/6/68/Goldmantelziesel.jpg",
+  "https://upload.wikimedia.org/wikipedia/commons/8/82/OtospermophilusVariegatusGrandCanyon.jpg"
 ]
 
 module.exports = (robot) ->
